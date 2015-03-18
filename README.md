@@ -1,8 +1,8 @@
 # Bootstrap-Form-Validation-HTML5
-This is a simple plugin for validate form using html5 with bootstrap.
-
+This is a simple plugin for validate form using html5 with bootstrap.<br>
+<strong>Required:</strong> jQuery Library
   <h3>Usage</h3>
-  <strong>Required:</strong> jQuery Library
+  
   <br>
             <ol>
               <li>
