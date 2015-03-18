@@ -3,6 +3,7 @@ This is a simple plugin for validate form using html5 with bootstrap.
 
   <h3>Usage</h3>
   <strong>Required:</strong> jQuery Library
+  <br>
             <ol>
               <li>
                 Paste the following code into the <head> section of your site's HTML.
