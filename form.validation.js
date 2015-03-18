@@ -3,8 +3,7 @@ jQuery.fn.html5validate = function() {
 	var error_div = $("<div class='alert alert-danger'></div>");
 	var error_ul = $("<ul></ul>");
 	error_div.append(error_ul);
-	form.prepend(error_div.hide());	
-	console.log("a");
+	form.prepend(error_div.hide());		
 	form.on('click',':submit', function(event) {			
 			error_div.hide();
 			error_ul.empty();
