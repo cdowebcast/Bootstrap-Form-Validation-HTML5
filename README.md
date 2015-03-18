@@ -16,3 +16,5 @@ This is a simple plugin for validate form using html5 with bootstrap.<br>
             </ol>
   <h4>Demo</h4>
   <a href="http://dev.jodacame.com/Bootstrap-Form-Validation-HTML5/example/">http://dev.jodacame.com/Bootstrap-Form-Validation-HTML5/example/</a>
+  <h4>Author</h4>
+  <a href="http://twitter.com/jodacame">@jodacame</a>
